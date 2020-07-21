@@ -17,5 +17,6 @@ int main()
 			fs >> x;
 			std::cout << x << " ";
 		}
+		std::cout << "This is the end of the file." << std::endl;
 	}
 }
